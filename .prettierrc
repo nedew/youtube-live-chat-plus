@@ -15,6 +15,7 @@
     "^@/hooks/(.*)$",
     "^@/features/(.*)$",
     "^@/styles/(.*)$",
+    "^@/(.*)$",
     "^[./]"
   ],
   "importOrderSeparation": false,
